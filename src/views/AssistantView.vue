@@ -1,4 +1,4 @@
-﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<template>
+﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿﻿<template>
   <div class="assistant-wrapper">
     <div class="assistant-container">
       <div class="chat-header">
@@ -1307,9 +1307,13 @@ const sendMessage = async () => {
   scrollToBottom()
 
   try {
-    const appId = import.meta.env.VITE_SPARK_APP_ID
-    const apiKey = import.meta.env.VITE_SPARK_API_KEY
-    const apiSecret = import.meta.env.VITE_SPARK_API_SECRET
+    const FALLBACK_APP_ID = 'ab741ad5'
+    const FALLBACK_API_KEY = '373b60a8f778e003893db76ca49008f6'
+    const FALLBACK_API_SECRET = 'YzU1OWI1Y2VkYTMyMWUyZTc3ZTZhZDNk'
+    
+    const appId = import.meta.env.VITE_SPARK_APP_ID || FALLBACK_APP_ID
+    const apiKey = import.meta.env.VITE_SPARK_API_KEY || FALLBACK_API_KEY
+    const apiSecret = import.meta.env.VITE_SPARK_API_SECRET || FALLBACK_API_SECRET
     
     if (!appId || !apiKey || !apiSecret) {
       const localAnswer = getLocalAnswer(message)
