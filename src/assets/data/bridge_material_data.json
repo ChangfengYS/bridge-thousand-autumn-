@@ -1,0 +1,121 @@
+{
+  "materials": [
+    {
+      "name": "石",
+      "count": 189,
+      "percentage": 53.1,
+      "description": "石质桥梁最为常见，坚固耐久",
+      "representatives": [
+        "赵州桥",
+        "卢沟桥",
+        "安平桥"
+      ]
+    },
+    {
+      "name": "木",
+      "count": 78,
+      "percentage": 21.9,
+      "description": "木质桥梁工艺精湛，多见于南方",
+      "representatives": [
+        "程阳永济桥",
+        "北涧桥",
+        "溪东桥"
+      ]
+    },
+    {
+      "name": "铁索",
+      "count": 23,
+      "percentage": 6.5,
+      "description": "铁索桥多见于西南山区",
+      "representatives": [
+        "泸定桥",
+        "霁虹桥",
+        "盘江桥"
+      ]
+    },
+    {
+      "name": "砖石",
+      "count": 35,
+      "percentage": 9.8,
+      "description": "砖石混合结构，造型多样",
+      "representatives": [
+        "十七孔桥",
+        "五亭桥"
+      ]
+    },
+    {
+      "name": "竹木",
+      "count": 18,
+      "percentage": 5.1,
+      "description": "竹木结构，就地取材",
+      "representatives": [
+        "都江堰索桥"
+      ]
+    },
+    {
+      "name": "其他",
+      "count": 13,
+      "percentage": 3.6,
+      "description": "混合材质或特殊材料",
+      "representatives": []
+    }
+  ],
+  "distribution": [
+    {
+      "material": "石",
+      "value": 189
+    },
+    {
+      "material": "木",
+      "value": 78
+    },
+    {
+      "material": "砖石",
+      "value": 35
+    },
+    {
+      "material": "铁索",
+      "value": 23
+    },
+    {
+      "material": "竹木",
+      "value": 18
+    },
+    {
+      "material": "其他",
+      "value": 13
+    }
+  ],
+  "characteristics": {
+    "石": {
+      "durability": 95,
+      "maintenance": 85,
+      "cost": 70,
+      "aesthetics": 90
+    },
+    "木": {
+      "durability": 60,
+      "maintenance": 40,
+      "cost": 50,
+      "aesthetics": 95
+    },
+    "铁索": {
+      "durability": 75,
+      "maintenance": 50,
+      "cost": 80,
+      "aesthetics": 85
+    },
+    "砖石": {
+      "durability": 90,
+      "maintenance": 80,
+      "cost": 75,
+      "aesthetics": 88
+    },
+    "竹木": {
+      "durability": 40,
+      "maintenance": 30,
+      "cost": 30,
+      "aesthetics": 80
+    }
+  }
+}

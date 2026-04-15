@@ -1,0 +1,301 @@
+{
+  "provinces": [
+    {
+      "name": "福建",
+      "count": 67,
+      "percentage": 18.8,
+      "representatives": [
+        "安平桥",
+        "洛阳桥",
+        "泉州洛阳桥"
+      ]
+    },
+    {
+      "name": "浙江",
+      "count": 52,
+      "percentage": 14.6,
+      "representatives": [
+        "断桥",
+        "北涧桥",
+        "溪东桥"
+      ]
+    },
+    {
+      "name": "江苏",
+      "count": 45,
+      "percentage": 12.6,
+      "representatives": [
+        "宝带桥",
+        "枫桥",
+        "五亭桥"
+      ]
+    },
+    {
+      "name": "四川",
+      "count": 32,
+      "percentage": 9.0,
+      "representatives": [
+        "泸定桥",
+        "安澜桥",
+        "都江堰索桥"
+      ]
+    },
+    {
+      "name": "广东",
+      "count": 28,
+      "percentage": 7.9,
+      "representatives": [
+        "广济桥",
+        "潮州广济桥"
+      ]
+    },
+    {
+      "name": "云南",
+      "count": 25,
+      "percentage": 7.0,
+      "representatives": [
+        "霁虹桥",
+        "双龙桥",
+        "建水双龙桥"
+      ]
+    },
+    {
+      "name": "贵州",
+      "count": 21,
+      "percentage": 5.9,
+      "representatives": [
+        "盘江桥",
+        "葛镜桥",
+        "福泉葛镜桥"
+      ]
+    },
+    {
+      "name": "广西",
+      "count": 18,
+      "percentage": 5.1,
+      "representatives": [
+        "程阳永济桥",
+        "风雨桥",
+        "三江风雨桥"
+      ]
+    },
+    {
+      "name": "湖南",
+      "count": 15,
+      "percentage": 4.2,
+      "representatives": [
+        "凤凰虹桥",
+        "龙津风雨桥"
+      ]
+    },
+    {
+      "name": "北京",
+      "count": 12,
+      "percentage": 3.4,
+      "representatives": [
+        "卢沟桥",
+        "十七孔桥",
+        "玉带桥"
+      ]
+    },
+    {
+      "name": "河北",
+      "count": 10,
+      "percentage": 2.8,
+      "representatives": [
+        "赵州桥",
+        "永通桥"
+      ]
+    },
+    {
+      "name": "山西",
+      "count": 8,
+      "percentage": 2.2,
+      "representatives": [
+        "鱼沼飞梁",
+        "晋祠鱼沼飞梁"
+      ]
+    },
+    {
+      "name": "上海",
+      "count": 6,
+      "percentage": 1.7,
+      "representatives": [
+        "放生桥",
+        "朱家角放生桥"
+      ]
+    },
+    {
+      "name": "江西",
+      "count": 5,
+      "percentage": 1.4,
+      "representatives": [
+        "赣州古浮桥"
+      ]
+    },
+    {
+      "name": "陕西",
+      "count": 4,
+      "percentage": 1.1,
+      "representatives": [
+        "灞桥",
+        "渭水桥"
+      ]
+    },
+    {
+      "name": "安徽",
+      "count": 4,
+      "percentage": 1.1,
+      "representatives": [
+        "太平桥",
+        "许村高阳桥"
+      ]
+    },
+    {
+      "name": "山东",
+      "count": 3,
+      "percentage": 0.8,
+      "representatives": [
+        "泗水桥"
+      ]
+    },
+    {
+      "name": "湖北",
+      "count": 3,
+      "percentage": 0.8,
+      "representatives": [
+        "晴川桥"
+      ]
+    },
+    {
+      "name": "河南",
+      "count": 2,
+      "percentage": 0.6,
+      "representatives": [
+        "小商桥"
+      ]
+    },
+    {
+      "name": "其他",
+      "count": 2,
+      "percentage": 0.6,
+      "representatives": []
+    }
+  ],
+  "regions": {
+    "华东": {
+      "count": 198,
+      "percentage": 55.6
+    },
+    "西南": {
+      "count": 78,
+      "percentage": 21.9
+    },
+    "华北": {
+      "count": 32,
+      "percentage": 9.0
+    },
+    "华南": {
+      "count": 28,
+      "percentage": 7.9
+    },
+    "华中": {
+      "count": 18,
+      "percentage": 5.1
+    },
+    "西北": {
+      "count": 4,
+      "percentage": 1.1
+    },
+    "东北": {
+      "count": 2,
+      "percentage": 0.6
+    }
+  },
+  "mapData": [
+    {
+      "name": "福建",
+      "value": 67
+    },
+    {
+      "name": "浙江",
+      "value": 52
+    },
+    {
+      "name": "江苏",
+      "value": 45
+    },
+    {
+      "name": "四川",
+      "value": 32
+    },
+    {
+      "name": "广东",
+      "value": 28
+    },
+    {
+      "name": "云南",
+      "value": 25
+    },
+    {
+      "name": "贵州",
+      "value": 21
+    },
+    {
+      "name": "广西",
+      "value": 18
+    },
+    {
+      "name": "湖南",
+      "value": 15
+    },
+    {
+      "name": "北京",
+      "value": 12
+    },
+    {
+      "name": "河北",
+      "value": 10
+    },
+    {
+      "name": "山西",
+      "value": 8
+    },
+    {
+      "name": "上海",
+      "value": 6
+    },
+    {
+      "name": "江西",
+      "value": 5
+    },
+    {
+      "name": "陕西",
+      "value": 4
+    },
+    {
+      "name": "安徽",
+      "value": 4
+    },
+    {
+      "name": "山东",
+      "value": 3
+    },
+    {
+      "name": "湖北",
+      "value": 3
+    },
+    {
+      "name": "河南",
+      "value": 2
+    },
+    {
+      "name": "辽宁",
+      "value": 1
+    },
+    {
+      "name": "甘肃",
+      "value": 1
+    }
+  ]
+}

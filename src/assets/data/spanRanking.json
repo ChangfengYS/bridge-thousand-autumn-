@@ -1,0 +1,252 @@
+{
+  "ranking": [
+    {
+      "rank": 1,
+      "name": "霁虹桥",
+      "span": 106,
+      "length": 115,
+      "province": "云南",
+      "city": "保山",
+      "dynasty": "明",
+      "bridgeType": "索桥",
+      "archCount": 0
+    },
+    {
+      "rank": 2,
+      "name": "泸定桥",
+      "span": 100,
+      "length": 103.67,
+      "province": "四川",
+      "city": "甘孜",
+      "dynasty": "清",
+      "bridgeType": "索桥",
+      "archCount": 0
+    },
+    {
+      "rank": 3,
+      "name": "赵州桥",
+      "span": 37.02,
+      "length": 50.82,
+      "province": "河北",
+      "city": "石家庄",
+      "dynasty": "隋",
+      "bridgeType": "拱桥",
+      "archCount": 1
+    },
+    {
+      "rank": 4,
+      "name": "盘江桥",
+      "span": 36,
+      "length": 38,
+      "province": "贵州",
+      "city": "晴隆",
+      "dynasty": "明",
+      "bridgeType": "索桥",
+      "archCount": 0
+    },
+    {
+      "rank": 5,
+      "name": "鱼沼飞梁",
+      "span": 18.9,
+      "length": 19.6,
+      "province": "山西",
+      "city": "太原",
+      "dynasty": "北宋",
+      "bridgeType": "梁桥",
+      "archCount": 0
+    },
+    {
+      "rank": 6,
+      "name": "程阳永济桥",
+      "span": 18.6,
+      "length": 77.76,
+      "province": "广西",
+      "city": "柳州",
+      "dynasty": "民国",
+      "bridgeType": "廊桥",
+      "archCount": 5
+    },
+    {
+      "rank": 7,
+      "name": "广济桥",
+      "span": 14.5,
+      "length": 518,
+      "province": "广东",
+      "city": "潮州",
+      "dynasty": "南宋",
+      "bridgeType": "梁桥",
+      "archCount": 24
+    },
+    {
+      "rank": 8,
+      "name": "卢沟桥",
+      "span": 14.2,
+      "length": 266.5,
+      "province": "北京",
+      "city": "北京",
+      "dynasty": "金",
+      "bridgeType": "拱桥",
+      "archCount": 11
+    },
+    {
+      "rank": 9,
+      "name": "放生桥",
+      "span": 13.5,
+      "length": 72,
+      "province": "上海",
+      "city": "上海",
+      "dynasty": "明",
+      "bridgeType": "拱桥",
+      "archCount": 5
+    },
+    {
+      "rank": 10,
+      "name": "十七孔桥",
+      "span": 8.8,
+      "length": 150,
+      "province": "北京",
+      "city": "北京",
+      "dynasty": "清",
+      "bridgeType": "拱桥",
+      "archCount": 17
+    },
+    {
+      "rank": 11,
+      "name": "洛阳桥",
+      "span": 8.5,
+      "length": 834,
+      "province": "福建",
+      "city": "泉州",
+      "dynasty": "北宋",
+      "bridgeType": "梁桥",
+      "archCount": 47
+    },
+    {
+      "rank": 12,
+      "name": "北涧桥",
+      "span": 6.8,
+      "length": 51.87,
+      "province": "浙江",
+      "city": "温州",
+      "dynasty": "清",
+      "bridgeType": "廊桥",
+      "archCount": 2
+    },
+    {
+      "rank": 13,
+      "name": "溪东桥",
+      "span": 6.2,
+      "length": 41.83,
+      "province": "浙江",
+      "city": "温州",
+      "dynasty": "明",
+      "bridgeType": "廊桥",
+      "archCount": 2
+    },
+    {
+      "rank": 14,
+      "name": "安平桥",
+      "span": 5.2,
+      "length": 2255,
+      "province": "福建",
+      "city": "泉州",
+      "dynasty": "南宋",
+      "bridgeType": "梁桥",
+      "archCount": 361
+    },
+    {
+      "rank": 15,
+      "name": "宝带桥",
+      "span": 4.5,
+      "length": 317,
+      "province": "江苏",
+      "city": "苏州",
+      "dynasty": "唐",
+      "bridgeType": "拱桥",
+      "archCount": 53
+    },
+    {
+      "rank": 16,
+      "name": "五亭桥",
+      "span": 4.2,
+      "length": 55.5,
+      "province": "江苏",
+      "city": "扬州",
+      "dynasty": "清",
+      "bridgeType": "廊桥",
+      "archCount": 15
+    },
+    {
+      "rank": 17,
+      "name": "枫桥",
+      "span": 3.8,
+      "length": 39.6,
+      "province": "江苏",
+      "city": "苏州",
+      "dynasty": "唐",
+      "bridgeType": "拱桥",
+      "archCount": 1
+    },
+    {
+      "rank": 18,
+      "name": "葛镜桥",
+      "span": 3.5,
+      "length": 30,
+      "province": "贵州",
+      "city": "福泉",
+      "dynasty": "明",
+      "bridgeType": "拱桥",
+      "archCount": 3
+    },
+    {
+      "rank": 19,
+      "name": "断桥",
+      "span": 3.2,
+      "length": 8.3,
+      "province": "浙江",
+      "city": "杭州",
+      "dynasty": "唐",
+      "bridgeType": "拱桥",
+      "archCount": 1
+    },
+    {
+      "rank": 20,
+      "name": "凤凰虹桥",
+      "span": 2.8,
+      "length": 112,
+      "province": "湖南",
+      "city": "湘西",
+      "dynasty": "清",
+      "bridgeType": "拱桥",
+      "archCount": 2
+    }
+  ],
+  "statistics": {
+    "totalBridges": 356,
+    "avgSpan": 8.5,
+    "maxSpan": 106,
+    "minSpan": 2.8,
+    "spanDistribution": [
+      {
+        "range": "0-5米",
+        "count": 89
+      },
+      {
+        "range": "5-10米",
+        "count": 156
+      },
+      {
+        "range": "10-20米",
+        "count": 67
+      },
+      {
+        "range": "20-50米",
+        "count": 28
+      },
+      {
+        "range": "50米以上",
+        "count": 16
+      }
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "overview": {
+    "totalBridges": 356,
+    "totalProvinces": 21,
+    "totalDynasties": 8,
+    "avgSpan": 28.5,
+    "worldHeritage": 3,
+    "nationalProtection": 89
+  },
+  "statistics": {
+    "totalBridges": 356,
+    "byType": {
+      "拱桥": 156,
+      "梁桥": 89,
+      "廊桥": 67,
+      "索桥": 23,
+      "浮桥": 18,
+      "其他": 3
+    },
+    "byMaterial": {
+      "石": 189,
+      "木": 78,
+      "砖石": 35,
+      "铁索": 23,
+      "竹木": 18,
+      "其他": 13
+    },
+    "byDynasty": {
+      "隋": 5,
+      "唐": 28,
+      "宋": 67,
+      "元": 12,
+      "明": 89,
+      "清": 112,
+      "民国": 18,
+      "其他": 25
+    }
+  },
+  "highlights": [
+    {
+      "title": "世界最早敞肩拱桥",
+      "bridge": "赵州桥",
+      "description": "距今1400多年，世界桥梁史上的奇迹"
+    },
+    {
+      "title": "天下第一长桥",
+      "bridge": "安平桥",
+      "description": "全长2255米，中国古代最长石梁桥"
+    },
+    {
+      "title": "红军长征纪念",
+      "bridge": "泸定桥",
+      "description": "1935年红军飞夺泸定桥，革命历史见证"
+    }
+  ],
+  "keyFeatures": [
+    {
+      "feature": "敞肩拱技术",
+      "description": "赵州桥首创，减轻桥身自重，增加泄洪能力"
+    },
+    {
+      "feature": "筏型基础",
+      "description": "洛阳桥首创，解决软基造桥难题"
+    },
+    {
+      "feature": "浮梁结合",
+      "description": "广济桥独创，可开可合的独特设计"
+    },
+    {
+      "feature": "风雨廊桥",
+      "description": "南方特色，避雨歇息与交通功能结合"
+    }
+  ]
+}

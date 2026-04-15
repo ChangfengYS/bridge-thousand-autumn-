@@ -1,0 +1,147 @@
+{
+  "dynasties": [
+    {
+      "name": "隋",
+      "count": 5,
+      "percentage": 1.4,
+      "period": "581-618年",
+      "representatives": [
+        "赵州桥",
+        "永通桥"
+      ]
+    },
+    {
+      "name": "唐",
+      "count": 28,
+      "percentage": 7.9,
+      "period": "618-907年",
+      "representatives": [
+        "宝带桥",
+        "断桥",
+        "枫桥"
+      ]
+    },
+    {
+      "name": "宋",
+      "count": 67,
+      "percentage": 18.8,
+      "period": "960-1279年",
+      "representatives": [
+        "安平桥",
+        "洛阳桥",
+        "广济桥"
+      ]
+    },
+    {
+      "name": "元",
+      "count": 12,
+      "percentage": 3.4,
+      "period": "1271-1368年",
+      "representatives": [
+        "灞桥"
+      ]
+    },
+    {
+      "name": "明",
+      "count": 89,
+      "percentage": 25.0,
+      "period": "1368-1644年",
+      "representatives": [
+        "霁虹桥",
+        "盘江桥",
+        "葛镜桥"
+      ]
+    },
+    {
+      "name": "清",
+      "count": 112,
+      "percentage": 31.5,
+      "period": "1644-1912年",
+      "representatives": [
+        "泸定桥",
+        "十七孔桥",
+        "程阳永济桥"
+      ]
+    },
+    {
+      "name": "民国",
+      "count": 18,
+      "percentage": 5.1,
+      "period": "1912-1949年",
+      "representatives": [
+        "程阳永济桥(重建)"
+      ]
+    },
+    {
+      "name": "其他",
+      "count": 25,
+      "percentage": 7.0,
+      "period": "年代不详",
+      "representatives": []
+    }
+  ],
+  "timeline": [
+    {
+      "period": "隋唐时期",
+      "year": 700,
+      "count": 33,
+      "description": "石拱桥技术成熟，赵州桥建成"
+    },
+    {
+      "period": "宋元时期",
+      "year": 1100,
+      "count": 79,
+      "description": "桥梁建造技术达到高峰"
+    },
+    {
+      "period": "明清时期",
+      "year": 1600,
+      "count": 201,
+      "description": "廊桥发展，铁索桥兴起"
+    },
+    {
+      "period": "近现代",
+      "year": 1900,
+      "count": 18,
+      "description": "传统桥梁保护与修缮"
+    }
+  ],
+  "evolution": [
+    {
+      "dynasty": "隋",
+      "feature": "敞肩拱技术发明",
+      "bridge": "赵州桥",
+      "innovation": "首创敞肩拱结构"
+    },
+    {
+      "dynasty": "唐",
+      "feature": "多孔联拱发展",
+      "bridge": "宝带桥",
+      "innovation": "53孔联拱石桥"
+    },
+    {
+      "dynasty": "宋",
+      "feature": "长桥建造技术",
+      "bridge": "安平桥",
+      "innovation": "2255米天下第一长桥"
+    },
+    {
+      "dynasty": "宋",
+      "feature": "筏型基础技术",
+      "bridge": "洛阳桥",
+      "innovation": "首创筏型基础"
+    },
+    {
+      "dynasty": "明",
+      "feature": "铁索桥技术",
+      "bridge": "霁虹桥",
+      "innovation": "铁索桥建造技术成熟"
+    },
+    {
+      "dynasty": "清",
+      "feature": "风雨桥发展",
+      "bridge": "程阳永济桥",
+      "innovation": "木石结构廊桥"
+    }
+  ]
+}

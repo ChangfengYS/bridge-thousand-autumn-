@@ -1,0 +1,117 @@
+{
+  "types": [
+    {
+      "name": "拱桥",
+      "count": 156,
+      "description": "以拱形结构跨越江河的桥梁",
+      "avgSpan": 25.6,
+      "representatives": [
+        "赵州桥",
+        "卢沟桥",
+        "十七孔桥"
+      ]
+    },
+    {
+      "name": "梁桥",
+      "count": 89,
+      "description": "以梁板跨越桥墩的桥梁",
+      "avgSpan": 15.3,
+      "representatives": [
+        "安平桥",
+        "洛阳桥",
+        "广济桥"
+      ]
+    },
+    {
+      "name": "廊桥",
+      "count": 67,
+      "description": "桥上建有廊屋的风雨桥",
+      "avgSpan": 18.5,
+      "representatives": [
+        "程阳永济桥",
+        "北涧桥",
+        "溪东桥"
+      ]
+    },
+    {
+      "name": "索桥",
+      "count": 23,
+      "description": "以绳索悬吊的桥梁",
+      "avgSpan": 85.2,
+      "representatives": [
+        "泸定桥",
+        "霁虹桥",
+        "盘江桥"
+      ]
+    },
+    {
+      "name": "浮桥",
+      "count": 18,
+      "description": "以船只连接而成的桥梁",
+      "avgSpan": 200,
+      "representatives": [
+        "赣州古浮桥",
+        "潮州广济桥"
+      ]
+    }
+  ],
+  "distribution": [
+    {
+      "type": "拱桥",
+      "value": 156,
+      "percentage": 43.8
+    },
+    {
+      "type": "梁桥",
+      "value": 89,
+      "percentage": 25.0
+    },
+    {
+      "type": "廊桥",
+      "value": 67,
+      "percentage": 18.8
+    },
+    {
+      "type": "索桥",
+      "value": 23,
+      "percentage": 6.5
+    },
+    {
+      "type": "浮桥",
+      "value": 18,
+      "percentage": 5.1
+    },
+    {
+      "type": "其他",
+      "value": 3,
+      "percentage": 0.8
+    }
+  ],
+  "spanComparison": [
+    {
+      "type": "拱桥",
+      "avgSpan": 25.6,
+      "maxSpan": 37.02
+    },
+    {
+      "type": "梁桥",
+      "avgSpan": 15.3,
+      "maxSpan": 2255
+    },
+    {
+      "type": "廊桥",
+      "avgSpan": 18.5,
+      "maxSpan": 77.76
+    },
+    {
+      "type": "索桥",
+      "avgSpan": 85.2,
+      "maxSpan": 103
+    },
+    {
+      "type": "浮桥",
+      "avgSpan": 200,
+      "maxSpan": 500
+    }
+  ]
+}

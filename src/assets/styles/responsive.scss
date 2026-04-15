@@ -1,0 +1,280 @@
+@media screen and (max-width: 768px) {
+
+  .type-container,
+  .panorama-container,
+  .timeline-container,
+  .province-container,
+  .comparison-container,
+  .cases-container,
+  .structure-container,
+  .craft-container,
+  .evolution-container {
+    padding: 15px;
+  }
+
+  .page-header {
+    .page-title {
+      font-size: 20px !important;
+    }
+
+    .page-subtitle {
+      font-size: 12px !important;
+    }
+  }
+
+  .charts-row {
+    flex-direction: column;
+    gap: 12px;
+  }
+
+  .chart-card {
+    .chart-area {
+      height: 220px !important;
+    }
+
+    .chart-header {
+      h3 {
+        font-size: 14px !important;
+      }
+    }
+  }
+
+  .type-tabs {
+    flex-wrap: wrap;
+
+    .type-tab {
+      min-width: calc(50% - 6px);
+      padding: 10px 12px;
+
+      .tab-name {
+        font-size: 13px;
+      }
+
+      .tab-count {
+        font-size: 11px;
+      }
+    }
+  }
+
+  .type-detail {
+    padding: 15px;
+
+    .detail-header {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 8px;
+
+      h3 {
+        font-size: 18px;
+      }
+    }
+
+    .feature-list {
+      grid-template-columns: 1fr;
+    }
+
+    .representative-grid {
+      grid-template-columns: 1fr;
+    }
+
+    .sub-chart-area {
+      height: 150px !important;
+    }
+  }
+
+  .chat-box {
+    height: calc(100vh - 200px) !important;
+    min-height: 400px;
+  }
+
+  .msg-list {
+    padding: 8px;
+  }
+
+  .input-form {
+    height: 40px !important;
+  }
+
+  .input-field {
+    font-size: 13px !important;
+    padding: 0 12px !important;
+  }
+
+  .send-button {
+    width: 40px !important;
+    height: 40px !important;
+  }
+
+  .avatar {
+    width: 32px !important;
+    height: 32px !important;
+  }
+
+  .message {
+    max-width: 80% !important;
+    padding: 10px 12px !important;
+
+    p {
+      font-size: 13px !important;
+    }
+  }
+}
+
+@media screen and (max-width: 480px) {
+
+  .type-container,
+  .panorama-container,
+  .timeline-container,
+  .province-container,
+  .comparison-container,
+  .cases-container,
+  .structure-container,
+  .craft-container,
+  .evolution-container {
+    padding: 10px;
+  }
+
+  .page-header {
+    margin-bottom: 12px;
+
+    .page-title {
+      font-size: 18px !important;
+    }
+
+    .page-subtitle {
+      font-size: 11px !important;
+    }
+  }
+
+  .chart-card {
+    padding: 12px;
+
+    .chart-area {
+      height: 180px !important;
+    }
+
+    .chart-header {
+      margin-bottom: 8px;
+
+      h3 {
+        font-size: 13px !important;
+      }
+
+      .chart-desc {
+        font-size: 10px !important;
+      }
+    }
+  }
+
+  .type-tabs {
+    .type-tab {
+      min-width: 100%;
+      padding: 8px 10px;
+
+      .tab-name {
+        font-size: 12px;
+      }
+
+      .tab-count {
+        font-size: 10px;
+      }
+    }
+  }
+
+  .type-detail {
+    padding: 12px;
+
+    .detail-header {
+      h3 {
+        font-size: 16px;
+      }
+
+      .detail-percentage {
+        font-size: 12px;
+      }
+    }
+
+    .detail-section {
+      margin-bottom: 15px;
+
+      h4 {
+        font-size: 13px;
+        margin-bottom: 8px;
+      }
+
+      .detail-desc {
+        font-size: 12px;
+      }
+    }
+
+    .feature-item {
+      padding: 6px 10px;
+      font-size: 11px;
+    }
+
+    .representative-card {
+      .card-header {
+        padding: 8px 10px;
+        font-size: 12px;
+      }
+
+      .card-body {
+        padding: 10px;
+
+        .info-row {
+          font-size: 10px;
+        }
+      }
+    }
+  }
+
+  .chat-box {
+    height: calc(100vh - 180px) !important;
+    min-height: 350px;
+  }
+
+  .typing-bubble {
+    padding: 10px 12px;
+
+    .typing-text {
+      font-size: 12px;
+    }
+
+    .dot {
+      width: 6px;
+      height: 6px;
+    }
+  }
+
+  .chart-export-btn {
+    .export-btn {
+      padding: 6px 12px;
+      font-size: 12px;
+    }
+
+    .dropdown-item {
+      padding: 10px 12px;
+      font-size: 12px;
+    }
+  }
+}
+
+@media screen and (max-width: 360px) {
+  .chart-area {
+    height: 160px !important;
+  }
+
+  .avatar {
+    width: 28px !important;
+    height: 28px !important;
+  }
+
+  .message {
+    max-width: 75% !important;
+    padding: 8px 10px !important;
+
+    p {
+      font-size: 12px !important;
+    }
+  }
+}

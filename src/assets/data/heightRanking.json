@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "name": "文峰塔",
+    "location": "山西汾阳",
+    "height": 84.97,
+    "dynasty": "清",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 2,
+    "name": "定州塔",
+    "location": "河北定州",
+    "height": 83.7,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 3,
+    "name": "开元寺塔",
+    "location": "河北正定",
+    "height": 80.12,
+    "dynasty": "唐",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 4,
+    "name": "报恩寺塔",
+    "location": "江苏苏州",
+    "height": 76.0,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖木"
+  },
+  {
+    "rank": 5,
+    "name": "雷峰塔",
+    "location": "浙江杭州",
+    "height": 71.7,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 6,
+    "name": "崇圣寺千寻塔",
+    "location": "云南大理",
+    "height": 69.13,
+    "dynasty": "唐",
+    "type": "密檐式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 7,
+    "name": "应县木塔",
+    "location": "山西应县",
+    "height": 67.31,
+    "dynasty": "辽",
+    "type": "楼阁式塔",
+    "material": "木"
+  },
+  {
+    "rank": 8,
+    "name": "大雁塔",
+    "location": "陕西西安",
+    "height": 64.51,
+    "dynasty": "唐",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 9,
+    "name": "六和塔",
+    "location": "浙江杭州",
+    "height": 59.89,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖木"
+  },
+  {
+    "rank": 10,
+    "name": "天宁寺塔",
+    "location": "北京西城",
+    "height": 57.8,
+    "dynasty": "辽",
+    "type": "密檐式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 11,
+    "name": "铁塔",
+    "location": "河南开封",
+    "height": 55.88,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 12,
+    "name": "妙应寺白塔",
+    "location": "北京西城",
+    "height": 50.9,
+    "dynasty": "元",
+    "type": "覆钵式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 13,
+    "name": "灵光寺佛牙塔",
+    "location": "北京石景山",
+    "height": 51.0,
+    "dynasty": "辽",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 14,
+    "name": "开元寺双塔",
+    "location": "福建泉州",
+    "height": 48.27,
+    "dynasty": "唐",
+    "type": "楼阁式塔",
+    "material": "石"
+  },
+  {
+    "rank": 15,
+    "name": "飞虹塔",
+    "location": "山西洪洞",
+    "height": 47.6,
+    "dynasty": "明",
+    "type": "楼阁式塔",
+    "material": "琉璃"
+  },
+  {
+    "rank": 16,
+    "name": "虎丘塔",
+    "location": "江苏苏州",
+    "height": 47.7,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 17,
+    "name": "保俶塔",
+    "location": "浙江杭州",
+    "height": 45.3,
+    "dynasty": "宋",
+    "type": "楼阁式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 18,
+    "name": "小雁塔",
+    "location": "陕西西安",
+    "height": 43.4,
+    "dynasty": "唐",
+    "type": "密檐式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 19,
+    "name": "嵩岳寺塔",
+    "location": "河南登封",
+    "height": 37.6,
+    "dynasty": "南北朝",
+    "type": "密檐式塔",
+    "material": "砖"
+  },
+  {
+    "rank": 20,
+    "name": "镇国塔",
+    "location": "河南安阳",
+    "height": 36.5,
+    "dynasty": "唐",
+    "type": "楼阁式塔",
+    "material": "砖"
+  }
+]
