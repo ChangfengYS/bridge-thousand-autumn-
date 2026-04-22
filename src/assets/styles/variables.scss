@@ -2,6 +2,9 @@
 @import './animations.scss';
 
 :root {
+  --font-serif: 'Noto Serif SC', 'Source Han Serif SC', 'Source Han Serif CN', 'Microsoft YaHei', 'STKaiti', 'KaiTi', 'PingFang SC', 'Hiragino Sans GB', 'SimSun', serif;
+  --font-sans: 'Noto Sans SC', 'Microsoft YaHei', 'PingFang SC', 'Hiragino Sans GB', sans-serif;
+
   /* ==================== 主色调 ==================== */
   /* 桥韵朱红 - 代表古桥的历史印记和文化传承 */
   --color-primary: #B8423A;

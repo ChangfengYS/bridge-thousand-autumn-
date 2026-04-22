@@ -10,8 +10,9 @@ import 'bootstrap/dist/js/bootstrap.min.js'
 import "bootstrap-icons/font/bootstrap-icons.css"
 
 import { registerTheme } from './utils/charts/chartTheme'
+import { lazyLoad } from './directives/lazyLoad'
 
 registerTheme()
 
 const app = createApp(App)
-app.use(router).use(store).mount('#app')
+app.use(router).use(store).use(lazyLoad).mount('#app')

@@ -1,8 +1,8 @@
 {
-  "name": "qiaoying-qianqiu-visualization",
+  "name": "bridge-thousand-autumn",
   "private": true,
   "version": "1.0.0",
-  "description": "桥影千秋——中国古桥建筑的结构演变与地域特征数据可视化设计",
+  "description": "桥载千秋——中国古桥建筑的结构演变与地域特征数据可视化设计",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -20,6 +20,7 @@
     "bootstrap-icons": "^1.11.3",
     "crypto-js": "^4.2.0",
     "echarts": "^5.5.0",
+    "echarts-gl": "^2.0.9",
     "echarts-wordcloud": "^2.1.0",
     "element-plus": "^2.13.7",
     "jquery": "^3.7.1",

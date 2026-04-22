@@ -1,6 +1,6 @@
 import { createRouter, createWebHashHistory } from 'vue-router'
-import WelcomeView from '@/views/WelcomeView.vue'
-import HomeView from '@/views/HomeView.vue'
+import WelcomeView from '@/views/home/WelcomeView.vue'
+import HomeView from '@/views/home/HomeView.vue'
 
 const routes = [
     {
@@ -18,38 +18,38 @@ const routes = [
             {
                 path: 'dashboard',
                 name: 'dashboard',
-                component: () => import('@/views/DashboardView.vue'),
+                component: () => import('@/views/dashboard/DashboardView.vue'),
                 meta: { title: '桥影流光', icon: '🌉' }
             },
             {
                 path: 'wordcloud-only',
                 name: 'wordcloud-only',
-                component: () => import('@/views/WordCloudOnlyView.vue'),
+                component: () => import('@/views/analysis/WordCloudOnlyView.vue'),
                 meta: { title: '词云分析', icon: '☁️' }
             },
             {
                 path: 'height',
                 name: 'height',
-                component: () => import('@/views/HeightView.vue'),
+                component: () => import('@/views/bridge/HeightView.vue'),
                 meta: { title: '跨度传奇', icon: '📏' }
             },
             {
                 path: 'culture',
                 name: 'culture',
-                component: () => import('@/views/BridgeCultureGraph.vue'),
+                component: () => import('@/views/bridge/BridgeCultureGraph.vue'),
                 meta: { title: '文化图谱', icon: '🕸️' }
             },
 
             {
                 path: 'bridge/:id',
                 name: 'bridge-detail',
-                component: () => import('@/views/BridgeDetailView.vue'),
+                component: () => import('@/views/bridge/BridgeDetailView.vue'),
                 meta: { title: '古桥详情', icon: '🌉', hidden: true }
             },
             {
                 path: 'assistant',
                 name: 'assistant',
-                component: () => import('@/views/AssistantView.vue'),
+                component: () => import('@/views/assistant/AssistantView.vue'),
                 meta: { title: '桥灵问答', icon: '🤖' }
             }
         ]
@@ -57,7 +57,7 @@ const routes = [
     {
         path: '/:pathMatch(.*)*',
         name: 'NotFound',
-        component: () => import('@/views/NotFoundView.vue')
+        component: () => import('@/views/error/NotFoundView.vue')
     }
 ]
 
